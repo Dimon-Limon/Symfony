@@ -1,0 +1,44 @@
+{% extends 'index.html.twig' %}
+
+{% block body %}
+
+    <h1 align="center">SHOW galery</h1>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-4">
+
+                {{ form_start(form) }}
+                {{ form_row(form.title) }}
+                {{ form_row(form.src) }}
+                {{ form_row(form.userId) }}
+                {{ form_end(form) }}
+
+            </div>
+
+            <div class="col-md-8">
+                <div class="table-responsive">
+                    <table class="table">
+                        <thead>
+                            <tr class="success">
+                                <th>title</th>
+                                <th>userid</th>
+                                <th>src</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+
+                                {% for image in images %}
+                                <tr>
+                                    <th>title {{ image.title }}</th>
+                                    <th>user_id = {{ image.userId }}</th>
+                                    <th>src {{ image.src }}</th>
+                                </tr>
+                                    {% endfor %}
+                        </tbody>
+
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}
