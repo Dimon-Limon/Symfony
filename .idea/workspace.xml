@@ -45,31 +45,31 @@
   </component>
   <component name="FrameworkCommandLineHistory">
     <commandsHistory>
-      <command text=" php app/console generate:doctrine:entity" />
-      <command text="php app/console generate:doctrine:entity" />
-      <command text="php app/console generate:doctrine:entity AppBundle/Article" />
-      <command text="php app/console doctrine:generate:entity" />
-      <command text="php app/console doctrine:generate:entity AppBundle:Article" />
-      <command text="php app/console doctrine:generate" />
-      <command text="php app/console doctrine:generate:entity" />
-      <command text=" php app/console doctrine:database:create" />
-      <command text="sudo apt-get install php5-mysql" />
-      <command text="composer require friendsofsymfony/user-bundle &quot;~1.3&quot;" />
-      <command text="php app/console doctrine:schema:update --force" />
-      <command text="php app/console fos:user:create testuser test@example.com p@ssword" />
-      <command text="php app/console fos:user:activate testuser" />
-      <command text="php app/console cache:clear" />
-      <command text="php app/console doctrine:generate:entity" />
-      <command text="php app/console doctrine:generate:entity AppBundle:User" />
-      <command text="php app/console generate:doctrine:entity" />
-      <command text="php app/console generate:doctrine:entity AppBundle:User" />
-      <command text="sudo chmod 777 -R app/cache/" />
-      <command text="php app/console doctrine:mapping:import --force AppBundle xml" />
-      <command text="php app/console doctrine:mapping:convert annotation ./src" />
-      <command text="php app/console doctrine:generate:entities AppBundle" />
-      <command text="php app/console generate:doctrine:form AppBundle:User" />
-      <command text="php app/console generate:doctrine:form AppBundle:Image" />
+      <command text="git push -u origin master " />
+      <command text="git config --global user.email &quot;di-si@yandex.ru&quot;" />
+      <command text="git push -u origin master " />
       <command text="git init" />
+      <command text="git push -u origin master " />
+      <command text="git config --global user.name &quot;Dimon-Limon&quot;" />
+      <command text="git config --global user.email di-si@yandex.ru" />
+      <command text="git push -u origin master " />
+      <command text="git config --list" />
+      <command text="git config --global user.email" />
+      <command text="git config --global user.name" />
+      <command text="git config --list" />
+      <command text="git push -u origin master " />
+      <command text="git remote add origin https://github.com/Dimon-Limon/Symfony.git" />
+      <command text="git remote add origin git@github.com:Dimon-Limon/Symfony.git" />
+      <command text="git init" />
+      <command text="git remote add origin git@github.com:Dimon-Limon/Symfony.git" />
+      <command text="git commit -m &quot;first commit&quot;" />
+      <command text="git remote add origin git@github.com:Dimon-Limon/Symfony.git" />
+      <command text="git init" />
+      <command text="git commit -m &quot;first commit&quot;" />
+      <command text="git config --global user.email di-si@yandex.ru" />
+      <command text=" git config --global user.name Dimon-Limon" />
+      <command text="git commit -m &quot;first commit&quot;" />
+      <command text="git remote add origin git@github.com:Dimon-Limon/Symfony.git" />
     </commandsHistory>
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -236,12 +236,12 @@
       <workItem from="1487531644131" duration="196000" />
       <workItem from="1488046573130" duration="2337000" />
       <workItem from="1488053476317" duration="350000" />
-      <workItem from="1488095478973" duration="20265000" />
+      <workItem from="1488095478973" duration="21637000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27388000" />
+    <option name="totallyTimeSpent" value="28760000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
@@ -251,7 +251,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4242116" sideWeight="0.5018868" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Command Line Tools Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22583927" sideWeight="0.49811321" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46795523" sideWeight="0.49811321" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
